@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments (DO NOT PUSH)
+.venv/
+venv/
+sr_env/
+
+# Model Weights (Too Large)
+*.pth
+
+# Outputs
+results/
+output*.png
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Zip files
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
