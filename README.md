@@ -93,7 +93,7 @@ SRGAN improves visual quality using adversarial learning and perceptual loss.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/KDh3h3/Single-Image-Super-Resolution.git
+git clone https://github.com/sakshiagrawal7671-png/Single-Image-Super-Resolution.git
 cd Single-Image-Super-Resolution
 ```
 
